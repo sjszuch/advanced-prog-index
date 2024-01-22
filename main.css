@@ -75,4 +75,13 @@ body {
   margin-bottom: 1rem;
   color: #f3d8c3;
 }
+
+.content a {
+  color: #f3d8c3;
+  text-decoration: none;
+}
+
+.content a:hover {
+  color: #ebbc99;
+}
 /*# sourceMappingURL=main.css.map */

@@ -71,3 +71,14 @@ body {
     color: $orng;
   }
 }
+
+.content {
+  a {
+    color: $orng;
+    text-decoration: none;
+
+    &:hover {
+      color: darken($color: $orng, $amount: 10);
+    }
+  }
+}
